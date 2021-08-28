@@ -6,7 +6,6 @@ the fly more on any mini. This plugin adds a PC fly to the menu which remains an
 ## Change Log
 
 1.1.0: Added optional removal of the original GM only hide (since GM can use the new version too). Default is hidden.
-
        Can be turned back in the R2ModMan configuration for this plugin.
        
 1.1.0: New fly option only appears to GM and the owner. Other players don't have access to the new fly mode.
